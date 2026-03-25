@@ -97,8 +97,8 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/nlp-03-text-exploration
-cd nlp-03-text-exploration
+git clone https://github.com/vnallam09/nlp-03.git
+cd nlp-03
 code .
 ```
 
